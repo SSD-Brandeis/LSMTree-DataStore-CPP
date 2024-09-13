@@ -1,4 +1,4 @@
-#include "bloom_filter.h"
+#include "BloomFilter.h"
 #include "murmurhash.h"
 
 using namespace std;
