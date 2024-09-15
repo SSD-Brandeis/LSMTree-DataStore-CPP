@@ -1,6 +1,4 @@
-# LSMTree-DataStore-CPP
-
-# COSI-167A: Advanced Data Systems - TemplateDB
+# COSI-167A: Advanced Data Systems - LSMTree-DataStore-CPP (TemplateDB)
 
 
 ## About
